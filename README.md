@@ -1,4 +1,4 @@
-# software-recommendations
+# recommendations
 
 FOSS and Privacy Friendly Recommendations
 
