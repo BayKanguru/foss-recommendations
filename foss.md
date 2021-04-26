@@ -2,8 +2,6 @@
 
 ## Graphical Creative Work
 
----
-
 ### Image Manipulation (eg. Adobe Photoshop)
 
 - [GIMP](https://www.gimp.org/) for general manipulation of images.
@@ -22,8 +20,6 @@ Both have great integration with GIMP
 
 ## 3D Work
 
----
-
 ### 3D Modeling (eg. Autodesk Maya)
 
 - [Blender](https://www.blender.org)
@@ -33,8 +29,6 @@ Both have great integration with GIMP
 - [FreeCAD](https://www.freecadweb.org/)
 
 ## Daily Software
-
----
 
 ### Office Suites (eg. Microsoft Office)
 
@@ -63,11 +57,9 @@ Both have great integration with GIMP
 - [Vim](https://www.vim.org/) a highly configurable terminal text editor. (BTW press ESC then SHIFT+zz to save and exit SHIFT+zq to exit without saving ;\) )
 - [NeoVim](https://neovim.io/) drop in replacement for vim with lua support and more.
 - [Emacs](https://www.gnu.org/software/emacs/) a customizable text editor with a GUI.
-- [VSCodium](https://vscodium.com/) open source binaries of VSCode that have telemetry features disabled.
+- [VSCodium](https://vscodium.com/) open source binaries of VSCode without Microsoft proprietary code.
 
 ## Programming Languages
-
----
 
 ### Scientific Computing (eg. MATLAB)
 
