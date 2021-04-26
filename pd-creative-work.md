@@ -1,4 +1,4 @@
-# A List of Websites to Find Public Domain Resources for Creative Work
+# Websites To Find Public Domain Resources
 
 ## General Images
 

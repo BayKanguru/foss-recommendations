@@ -1,4 +1,4 @@
-# FOSS that are actually usable
+# Usable FOSS
 
 ## Graphical Creative Work
 

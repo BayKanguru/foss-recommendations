@@ -1,6 +1,6 @@
-# Software to protect privacy
+# Privacy Centered Reccomendations
 
-## Alternatives for widespread applications
+## Alternatives for Widespread Applications
 
 - Youtube
   - [Newpipe](https://newpipe.net/), on mobile
@@ -25,8 +25,6 @@
   - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)
   - [Firefox](https://www.mozilla.org/firefox/new)
   - [Icecat](https://www.gnu.org/software/gnuzilla/)
-- Google News
-  - [Any RSS Feed Reader](https://en.wikipedia.org/wiki/RSS)
 
 ## Software to help with privacy in general
 
