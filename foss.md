@@ -28,6 +28,10 @@ Both have great integration with GIMP
 
 - [FreeCAD](https://www.freecadweb.org/)
 
+### Slicing (eg. Ultimaker Cura)
+
+- [Slic3r](https://slic3r.org/)
+
 ## Daily Software
 
 ### Office Suites (eg. Microsoft Office)
@@ -37,7 +41,7 @@ Both have great integration with GIMP
 
 ### Documents (eg. Microsoft Word from Microsoft Office)
 
-- [Libre Writer from Libre Office](https://www.libreoffice.org/) a WYSIWYG editor just like MS Word
+- [Writer from Libre Office](https://www.libreoffice.org/) a WYSIWYG editor just like MS Word
 - [Latex](https://www.latex-project.org/) a typesetting language
 
 ### Browsers (eg. Google Chrome)
@@ -65,3 +69,8 @@ Both have great integration with GIMP
 
 - [Octave](https://www.gnu.org/software/octave/index) largely compaible syntax with MATLAB.
 - [Numpy](https://numpy.org/) a Python package for mathematical operations such as calculations on N-Dimentional arrays.
+
+### UML Diagrams, Flowcharts etc. (eg. Microsoft Visio)
+
+- [Draw from Libre Office](https://www.libreoffice.org/) a very basic way to make flowcharts.
+- [Modelio](https://www.modelio.org/) a very advanced program to make UML,BPMN, ArchiMate, SysML charts and more.
